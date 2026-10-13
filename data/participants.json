@@ -51,5 +51,18 @@
     "education": [
       "مهندسی نرم افزار - بک اند"
     ]
+  },
+  {
+    "name": "Amir Hossein Esanezhad",
+    "linkedin": "https://www.linkedin.com/in/amirhossein-esanezhad/",
+    "avatar": "https://github.com/esa-zz.png",
+    "education": [
+      "Bachelor's in Software Engineering, Islamic Azad University"
+    ],
+    "experience": [
+      "Full-Stack and Data Engineer at Iris by4sure",
+      "Frontend Developer at Duo Blocks",
+      "Frontend Developer at Baro Logistics"
+    ]
   }
 ]
